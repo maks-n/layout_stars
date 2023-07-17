@@ -1,0 +1,1 @@
+{"version":3,"sources":["block.css"],"names":[],"mappings":"AAAA,OACE,YAAa,CACb,qBACF,CAEA,cACE,iBACF","file":"block.be807209.css","sourceRoot":"../src","sourcesContent":[".block {\n  display: flex;\n  flex-direction: column;\n}\n\n.block__stars {\n  padding-right: 4px;\n}\n"]}

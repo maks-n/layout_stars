@@ -1,0 +1,1 @@
+{"version":3,"sources":["page.css"],"names":[],"mappings":"AAAA,YACE,QACF,CAEA,aACE,WACF","file":"page.0d95ec7e.css","sourceRoot":"../src","sourcesContent":[".page__body {\n  margin: 0;\n}\n\n.page__block {\n  width: 100px;\n}\n"]}
